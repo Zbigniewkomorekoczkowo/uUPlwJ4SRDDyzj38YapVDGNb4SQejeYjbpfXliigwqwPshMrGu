@@ -1,4 +1,12 @@
 {
-  "067806CC-323C-11B2-A85C-818B29A54E22": "xAgiq9V8mCNur9j88MNbyZ7N26hlz5YDNcuHuohRNg2I9a51SyWkKDeIkydce7MB",
-  "C4BC6BCC-2725-11B2-A85C-96935CC4CD67":"hTAdWTUpj0PorAFG2fKbsYcIyRF5oXSsdCpD8O15fN2yYQIzfq46m1OQcnWxRS8G"
+  "067806CC-323C-11B2-A85C-818B29A54E22": {
+    "key": "xAgiq9V8mCNur9j88MNbyZ7N26hlz5YDNcuHuohRNg2I9a51SyWkKDeIkydce7MB",
+    "program" : "all",
+    "permission-level" : "dev"
+  },
+  "C4BC6BCC-2725-11B2-A85C-96935CC4CD67":{
+    "key": "hTAdWTUpj0PorAFG2fKbsYcIyRF5oXSsdCpD8O15fN2yYQIzfq46m1OQcnWxRS8G",
+    "program" : "all",
+    "permission-level" : "dev"
+  }
 }
